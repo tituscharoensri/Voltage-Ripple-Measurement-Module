@@ -1,1 +1,1 @@
-# ANT61-Voltage-Ripple-Measurement-Module
+# Voltage-Ripple-Measurement-Module
